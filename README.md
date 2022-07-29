@@ -1,2 +1,6 @@
 # typescript-design-pattern
-Design Pattern In Typscript
+Example of Design Pattern In Typscript
+
+- behavioral design pattern
+- creational design pattern
+- structural design pattern
